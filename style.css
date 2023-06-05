@@ -1,0 +1,49 @@
+body{
+    padding-bottom: 100px;
+}
+
+.container{
+    max-width: 80%;
+    width: 80%;
+    margin: auto;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    max-width: 33.33%;
+    width: 33.33%;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+.btn{
+    border: 2px solid blue;
+    background-color: blue;
+    color: white;
+    font-weight: 500;
+    padding: 5px;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+.link-box{
+    text-align: center;
+}
+
+.heading{
+    margin: 100px auto;
+    background-color: yellow;
+    padding: 20px;
+    text-align: center;
+}
