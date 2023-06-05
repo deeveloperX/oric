@@ -1,3 +1,7 @@
 ORIC | Sargodha Campus. All rights reserved.
 
-https://www.deeveloperX.github.io
+website:
+https://www.deeveloperX.github.io/oricsargodhacampus/
+
+developer:
+https://www.deeveloperx.github.io/portfolio/
