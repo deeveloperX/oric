@@ -28,8 +28,8 @@ tr:nth-child(even) {
 }
 
 .btn{
-    border: 2px solid blue;
-    background-color: blue;
+    border: 2px solid green;
+    background-color: green;
     color: white;
     font-weight: 500;
     padding: 5px;
@@ -43,7 +43,8 @@ tr:nth-child(even) {
 
 .heading{
     margin: 100px auto;
-    background-color: yellow;
+    background-color: green;
+    color: #fff;
     padding: 20px;
     text-align: center;
 }
